@@ -1,6 +1,5 @@
 package Lab_2;
 
-// ADDING TEST FOR COMMIT
 
 import java.io.*;
 import java.net.*;
